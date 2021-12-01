@@ -1,0 +1,293 @@
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.exe
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.deps.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.runtimeconfig.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.runtimeconfig.dev.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.pdb
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\HamburgerMenu.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csprojAssemblyReference.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLogin.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\DangNhapWindow.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\FixAfterLogin.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLChuongTrinhDaoTao.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLCongDangKy.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLMonhoc.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyGiangVien.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyLop.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyNhanVien.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLySinhVien.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CTCTDT_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CT_MonHocDuocMo_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Hedaotao_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyCTDT_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyDKMH_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKy_CTCTDT.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Khoikienthuc_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MatKhau_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MHNguyenVong_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Monhocduocmo_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NamhocDKNH_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NienKhoaApDung_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\PhieuDangKy_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyChucVu.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyKhoa.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNganh.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNienKhoa.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\testChiTietSinhVien.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Window_CTCTDT_Chinhsua.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc_MarkupCompile.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc_MarkupCompile.lref
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\App.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLogin.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\DangNhapWindow.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\FixAfterLogin.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLChuongTrinhDaoTao.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLCongDangKy.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLMonhoc.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyGiangVien.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyLop.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyNhanVien.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLySinhVien.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CTCTDT_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CT_MonHocDuocMo_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Hedaotao_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyCTDT_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyDKMH_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKy_CTCTDT.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Khoikienthuc_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MatKhau_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MHNguyenVong_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Monhocduocmo_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NamhocDKNH_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NienKhoaApDung_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\PhieuDangKy_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyChucVu.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyKhoa.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNganh.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNienKhoa.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\testChiTietSinhVien.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Window_CTCTDT_Chinhsua.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.g.resources
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.AssemblyInfoInputs.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.AssemblyInfo.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csproj.CoreCompileInputs.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csproj.CopyComplete
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.pdb
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.genruntimeconfig.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\XemChiTietPDK_Window.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\XemChiTietPDK_Window.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLoginNV.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLoginNV.baml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\PageQLLop_MonHoc.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANTOTNGHIEP\PhanBien\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\TaoLopMH_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.exe
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.deps.json
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.runtimeconfig.json
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.runtimeconfig.dev.json
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.pdb
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\HamburgerMenu.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLogin.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLoginNV.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\DangNhapWindow.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\FixAfterLogin.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\PageQLLop_MonHoc.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLChuongTrinhDaoTao.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLCongDangKy.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLMonhoc.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyGiangVien.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyLop.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyNhanVien.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLySinhVien.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CTCTDT_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CT_MonHocDuocMo_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Hedaotao_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyCTDT_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyDKMH_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKy_CTCTDT.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Khoikienthuc_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\LopMH_SinhVien_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MatKhau_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MHNguyenVong_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Monhocduocmo_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NamhocDKNH_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NienKhoaApDung_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\PhieuDangKy_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyChucVu.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyKhoa.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNganh.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNienKhoa.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\TaoLopMH_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\testChiTietSinhVien.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Window_CTCTDT_Chinhsua.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\XemChiTietPDK_Window.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\App.g.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc_MarkupCompile.cache
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc_MarkupCompile.lref
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\App.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLogin.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLoginNV.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\DangNhapWindow.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\FixAfterLogin.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\MainWindow.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\PageQLLop_MonHoc.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLChuongTrinhDaoTao.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLCongDangKy.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLMonhoc.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyGiangVien.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyLop.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyNhanVien.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLySinhVien.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CTCTDT_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CT_MonHocDuocMo_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Hedaotao_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyCTDT_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyDKMH_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKy_CTCTDT.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Khoikienthuc_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\LopMH_SinhVien_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MatKhau_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MHNguyenVong_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Monhocduocmo_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NamhocDKNH_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NienKhoaApDung_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\PhieuDangKy_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyChucVu.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyKhoa.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNganh.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNienKhoa.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\TaoLopMH_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\testChiTietSinhVien.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Window_CTCTDT_Chinhsua.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\XemChiTietPDK_Window.baml
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.g.resources
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.AssemblyInfoInputs.cache
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.AssemblyInfo.cs
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csproj.CoreCompileInputs.cache
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csproj.CopyComplete
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.dll
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.pdb
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.genruntimeconfig.cache
+G:\Luan_Van\Git\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csprojAssemblyReference.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.exe
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.deps.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.runtimeconfig.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.runtimeconfig.dev.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\HamburgerMenu.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csprojAssemblyReference.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLogin.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLoginNV.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\DangNhapWindow.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\FixAfterLogin.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\PageQLLop_MonHoc.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLChuongTrinhDaoTao.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLCongDangKy.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLMonhoc.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyGiangVien.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyLop.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyNhanVien.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLySinhVien.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CTCTDT_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CT_MonHocDuocMo_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Hedaotao_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyCTDT_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyDKMH_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKy_CTCTDT.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Khoikienthuc_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\LopMH_SinhVien_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MatKhau_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MHNguyenVong_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Monhocduocmo_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NamhocDKNH_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NienKhoaApDung_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\PhieuDangKy_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyChucVu.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyKhoa.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNganh.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNienKhoa.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\TaoLopMH_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\testChiTietSinhVien.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Window_CTCTDT_Chinhsua.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\XemChiTietPDK_Window.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc_MarkupCompile.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc_MarkupCompile.lref
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\App.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLogin.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\AfterLoginNV.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\DangNhapWindow.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\FixAfterLogin.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\PageQLLop_MonHoc.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLChuongTrinhDaoTao.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLCongDangKy.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\Page_QLMonhoc.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyGiangVien.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyLop.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLyNhanVien.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\PageQL\QuanLySinhVien.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CTCTDT_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\CT_MonHocDuocMo_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Hedaotao_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyCTDT_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKyDKMH_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\HocKy_CTCTDT.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Khoikienthuc_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\LopMH_SinhVien_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MatKhau_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\MHNguyenVong_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Monhocduocmo_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NamhocDKNH_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\NienKhoaApDung_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\PhieuDangKy_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyChucVu.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyKhoa.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNganh.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\QuanLyNienKhoa.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\TaoLopMH_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\testChiTietSinhVien.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\Window_CTCTDT_Chinhsua.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\WindowQL\XemChiTietPDK_Window.baml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.g.resources
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.AssemblyInfoInputs.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.AssemblyInfo.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csproj.CoreCompileInputs.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.csproj.CopyComplete
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\WPF\WPF_DangKyMonHoc\obj\Debug\netcoreapp3.1\Wpf_DangKyMonHoc.genruntimeconfig.cache

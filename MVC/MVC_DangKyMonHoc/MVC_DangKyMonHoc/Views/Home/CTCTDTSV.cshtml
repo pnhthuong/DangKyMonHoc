@@ -1,0 +1,69 @@
+﻿@model IEnumerable<MVC_DangKyMonHoc.Models.CT_CTDT_SV>
+
+@{
+    ViewData["Title"] = "CTCTDTSV";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1><b>CHƯƠNG TRÌNH ĐÀO TẠO</b></h1>
+<hr />
+@{
+    if (Model == null)
+    {
+        <span>@ViewBag.error</span>
+    }
+    else
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>
+                        Mã Môn Học
+                    </th>
+                    <th>
+                        Tên Môn Học
+                    </th>
+                    <th>
+                        Số tín chỉ
+                    </th>
+                    <th>
+                        Hệ số HP
+                    </th>
+                    <th>
+                        Thực hành
+                    </th>
+                    <th>
+                        Học Kỳ
+                    </th>
+                   
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaMh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenMh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Sotinchi)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HesoHp)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Thuchanh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaHk)
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+}
+

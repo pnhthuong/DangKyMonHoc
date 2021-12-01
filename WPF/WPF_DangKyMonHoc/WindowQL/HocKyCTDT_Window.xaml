@@ -1,0 +1,67 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.WindowQL.HocKyCTDT_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc.WindowQL"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="HocKyCTDT_Window" Height="450" Width="800">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <materialDesign:Card Grid.Column="0" HorizontalAlignment="Stretch">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ListView Name="listHocKyCTDT" SelectedValuePath="MaHk" SelectionChanged="listHocKyCTDT_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Mã học kỳ " DisplayMemberBinding="{Binding MaHk}" ></GridViewColumn>
+                                <GridViewColumn Header="Tên học kỳ " DisplayMemberBinding="{Binding TenHk}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </ScrollViewer>
+            </materialDesign:Card>
+
+            <StackPanel Grid.Column="2">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="5" ></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã học kỳ:" />
+                    <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Tên học kỳ:"/>
+                    <TextBox Margin="0 0 0 5" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" Width="125" Name="txtMahk" />
+                    <TextBox Margin="0 0 0 5" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Width="125"  Name="txtTenhk" />
+                    <materialDesign:Card HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,37,0">
+                        <WrapPanel  >
+                            <Button  Content="Thêm" Name="btnThem" Click="btnThem_Click" ></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button Content="Sửa" Name="btnSua" Click="btnSua_Click" ></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button  Content="Xóa" Name="btnXoa" Click="btnXoa_Click"></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button  Content="Làm Mới" Name="btnLamMoi" Click="btnLamMoi_Click" ></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button  Content="Thoát" Name="btnThoat" Click="btnThoat_Click"></Button>
+                        </WrapPanel>
+                    </materialDesign:Card>
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+</Window>

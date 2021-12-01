@@ -1,0 +1,123 @@
+﻿<Page x:Class="Wpf_DangKyMonHoc.Page_QLCongDangKy"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Wpf_DangKyMonHoc"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Page_QLCongDangKy">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition ></ColumnDefinition>
+                <ColumnDefinition Width="20"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                <RowDefinition Height="10"></RowDefinition>
+            </Grid.RowDefinitions>
+            <!--cot 1-->
+            <TextBlock  Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã cổng đăng ký:     "/>
+            <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Tên cổng đăng ký:    "/>
+            <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Thời gian mở:     "/>
+            <TextBlock Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Thời gian đóng:     "/>
+
+            <!--dong 2-->
+            <TextBox Grid.Row="0" Grid.Column="1" Name="txtMaCDK" />
+            <TextBox Grid.Row="1" Grid.Column="1" Name="txtTenCDK"/>
+            <DatePicker Grid.Row="2" Grid.Column="1" Name="dpThoiGianMo"/>
+            <DatePicker Grid.Row="3" Grid.Column="1" Name="dpThoiGianDong"/>
+
+            <!--cot 3-->
+            <TextBlock Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Trạng thái :     "/>
+            <TextBlock Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Học kỳ:     "/>
+            <TextBlock Grid.Row="2" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Năm học:     "/>
+
+            <!--dong4-->
+            <ComboBox Grid.Row="0" Grid.Column="4" Name="cboTrangThai" DisplayMemberPath="TenThuocTinh" SelectedValuePath="ID"
+  Style="{StaticResource MaterialDesignFloatingHintComboBox}">
+
+            </ComboBox>
+
+            <ComboBox Grid.Row="1" Grid.Column="4"
+  Style="{StaticResource MaterialDesignFloatingHintComboBox}" Name="cboHocKy" SelectedValuePath="MaHk" DisplayMemberPath="TenHk">
+
+            </ComboBox>
+            <ComboBox Grid.Row="2" Grid.Column="4"
+  Style="{StaticResource MaterialDesignFloatingHintComboBox}" Name="cboNamHoc" SelectedValuePath="MaNh" DisplayMemberPath="TenNh">
+
+            </ComboBox>
+            <Button Grid.Row="0" Grid.Column="7" Width="100"  Content="Thêm" Margin="5" Name="btnThem" Click="btnThem_Click"></Button>
+            <Button Grid.Row="1" Grid.Column="7" Width="100" Content="Sửa" Margin="5" Name="btnSua" Click="btnSua_Click" ></Button>
+            <Button Grid.Row="2" Grid.Column="7" Width="100" Content="Xóa" Margin="5" Name="btnXoa" Click="btnXoa_Click" ></Button>
+            <Button Grid.Row="3" Grid.Column="7" Width="100" Content="Làm mới" Margin="5" Name="btnLamMoi" Click="btnLamMoi_Click" ></Button>
+            <!--dong5-->
+            <Label Grid.Row="1" Grid.Column="6" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Hyperlink Click="btn_hocky_DKMH">Tạo mới</Hyperlink>
+            </Label>
+            <Label Grid.Row="2" Grid.Column="6" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Hyperlink Click="btn_NamHoc_DKMH">Tạo mới</Hyperlink>
+            </Label>
+        </Grid>
+
+
+        <materialDesign:Card VerticalAlignment="Center" HorizontalAlignment="Center">
+            <WrapPanel>
+                
+                
+                <Button Content="NK Áp Dụng" Margin="5" Click="btn_apdungnienkhoa"></Button>
+                <Button Content="MH Được mở" Margin="5" Click="btn_duocmo"></Button>
+                <Button Content="MH nguyện vọng" Margin="5" Click="btn_MHNguyenVong"></Button>
+                <Button Content="Phiếu đăng ký" Margin="5" Click="btn_PhieuDangKy"></Button>
+                <Button Content="Lớp môn học" Margin="5" Click="btn_Taolopmh"></Button>
+            </WrapPanel>
+        </materialDesign:Card>
+
+        <!--<materialDesign:Card >
+            <WrapPanel >
+                <TextBox  materialDesign:HintAssist.Hint="Khoa" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <TextBox  materialDesign:HintAssist.Hint="Họ Tên" Style="{StaticResource MaterialDesignFloatingHintTextBox}" />
+                <Button  Content="Tìm Kiếm" Margin="5" Width="100" Background="BlueViolet"></Button>
+            </WrapPanel>
+        </materialDesign:Card>-->
+        <materialDesign:Card  Margin="5" VerticalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <ListView Name="listCongDangKy" DisplayMemberPath="MaCdk" SelectionChanged="listCDK_SelectionChanged" HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="Mã cổng " DisplayMemberBinding="{Binding MaCdk}" ></GridViewColumn>
+                            <GridViewColumn Header="Tên cổng" DisplayMemberBinding="{Binding TenCdk}"></GridViewColumn>
+                            <GridViewColumn Header="Thời gian mở" DisplayMemberBinding="{Binding ThoigianBatDau}"></GridViewColumn>
+                            <GridViewColumn Header="Thời gian đóng" DisplayMemberBinding="{Binding ThoigianKetThuc}" ></GridViewColumn>
+                            <GridViewColumn Header="Trạng thái" DisplayMemberBinding="{Binding Trangthai}"></GridViewColumn>
+                            <GridViewColumn Header="Học kỳ" DisplayMemberBinding="{Binding MaHk}"></GridViewColumn>
+                            <GridViewColumn Header="Năm học" DisplayMemberBinding="{Binding MaNh}"></GridViewColumn>
+
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </ScrollViewer>
+        </materialDesign:Card>
+    </StackPanel>
+
+</Page>

@@ -1,0 +1,29 @@
+﻿@model IEnumerable<MVC_DangKyMonHoc.Models.MonHoc>
+
+
+
+@foreach (var item in Model) {
+<tr>
+	<td width="10" align="center" valign="middle">
+		<input type="checkbox" />
+	</td>
+	<td>
+		@Html.DisplayFor(modelItem => item.MaMh)
+	</td>
+	<td>
+		@Html.DisplayFor(modelItem => item.TenMh)
+	</td>
+	<td>
+		@Html.DisplayFor(modelItem => item.Sotinchi)
+	</td>
+	<td>
+		@Html.DisplayFor(modelItem => item.HesoHp)
+	</td>
+	<td>
+		@Html.DisplayFor(modelItem => item.Thuchanh)
+	</td>
+	
+	
+</tr>
+}
+   

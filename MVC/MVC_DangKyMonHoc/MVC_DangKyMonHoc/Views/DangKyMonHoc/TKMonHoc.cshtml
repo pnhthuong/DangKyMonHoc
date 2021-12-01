@@ -1,0 +1,71 @@
+﻿@model IEnumerable<MVC_DangKyMonHoc.Models.MonHoc>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MaMh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TenMh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Sotinchi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HesoHp)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Thuchanh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaTq)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaSh)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MaKhoi)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaMh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TenMh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sotinchi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HesoHp)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Thuchanh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaTq)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaSh)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaKhoi)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

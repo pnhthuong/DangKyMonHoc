@@ -1,0 +1,88 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.WindowQL.XemChiTietPDK_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc.WindowQL"
+        mc:Ignorable="d"
+        Title="XemChiTietPDK_Window" Height="450" Width="800">
+    <StackPanel>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition />
+                <RowDefinition Height="20"/>
+                <RowDefinition Height="50"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="40"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="20"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã Sinh viên:     "/>
+                <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Tên Sinh viên:     "/>
+                <TextBlock Grid.Row="0" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã Phiếu đăng ký:     "/>
+                <TextBlock Grid.Row="1" Grid.Column="3" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Ngày đăng ký:     "/>
+                <TextBox Grid.Row="0" Grid.Column="1" Name="txtMaSv"/>
+                <TextBox Grid.Row="1" Grid.Column="1" Name="txtTenSv"/>
+                <TextBox Grid.Row="0" Grid.Column="4" Name="txtMaPdk"/>
+                <DatePicker Grid.Row="1" Grid.Column="4" Name="dpNgaydk"/>
+            </Grid>
+            <Grid Grid.Row="2">
+                <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <Button Margin="5" Content="Thêm" Name="btnThem" Click="btnThem_Click"></Button>
+                    <Button Margin="5" Content="Xóa" Name="btnXoa" Click="btnXoa_Click"></Button>
+                    <Button Margin="5" Content="Lưu" Name="btnLuu" Click="btnLuu_Click"></Button>
+
+                </WrapPanel>
+            </Grid>
+            <Grid Grid.Row="3">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="80"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid Grid.Column="0">
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                        <ListView Height="400" Name="list_monhocduocmo" SelectedValuePath="MaMh">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Header="Mã môn học" DisplayMemberBinding="{Binding MaMh}"/>
+                                    <GridViewColumn Header="Số lượng "  DisplayMemberBinding="{Binding Soluong}"/>
+                                    <GridViewColumn Header="Trạng thái"  DisplayMemberBinding="{Binding Trangthai}"/>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </ScrollViewer>
+                </Grid>
+                
+                <Grid Grid.Column="2">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                    <ListView Height="400" Name="listCTPDK" DisplayMemberPath="MaPdk"  HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Mã Phiếu " DisplayMemberBinding="{Binding MaPdk}" ></GridViewColumn>
+                                <GridViewColumn Header="Mã môn học " DisplayMemberBinding="{Binding MaMh}"></GridViewColumn>
+                                <GridViewColumn Header="Trạng thái" DisplayMemberBinding="{Binding Trangthai}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </ScrollViewer>
+                    
+                </Grid>
+            </Grid>
+        </Grid>
+    </StackPanel>
+</Window>

@@ -1,0 +1,66 @@
+﻿@model MVC_DangKyMonHoc.Models.SinhVien
+
+@{
+    ViewData["Title"] = "IndexThongTinSinhVien";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Sửa thông tin cá nhân</h1>
+
+
+<hr />
+
+<div class="row">
+    <div class="col-5">
+        <h5>Thông tin mặc định</h5>
+        <div class="form-group">
+            <label class="control-label">MSSV:</label>
+            <input asp-for="MaSv" class="form-control" readonly />
+            <span asp-validation-for="MaSv" class="text-danger"></span>
+        </div>
+        <div>
+            <label class="control-label">Họ và tên:</label>
+            <input asp-for="TenSv" class="form-control" readonly />
+        </div>
+        <hr />
+    </div>
+    <div class="col-2"></div>
+    <div class="col-5">
+        <form asp-action="EditTTCNSinhVien" asp-controller="SinhVien" method="post">
+
+
+            <h5>Thông tin có thể thay đổi</h5>
+            <div class="form-group">
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" class="form-control" placeholder="Bạn nhập đầy đủ theo kiều: ABC@123.com " />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label class="control-label">Số điện thoại:</label>
+                <input asp-for="Sdt" class="form-control" placeholder="Bạn nhập đầy đủ 10 số" />
+                <span asp-validation-for="Sdt" class="text-danger"></span>
+            </div>
+            <hr />
+            <div>
+                <a asp-controller="SinhVien" asp-action="SuaMatKhau">Thay đổi mật khẩu</a>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu lại" class="btn btn-primary" />
+                <input type="submit" value="Hủy bỏ" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+   
+</div>
+
+<script type="text/javascript">
+    @{ string nc = "@";}
+    function validateEmail(elementValue){
+   var emailPattern = '/^[a-zA-Z0-9._-]'+@nc +'[a-zA-Z0-9.-]+\.[a-zA-Z]{2,4}$/';
+   return emailPattern.test(elementValue);
+ }
+</script>
+
+
+

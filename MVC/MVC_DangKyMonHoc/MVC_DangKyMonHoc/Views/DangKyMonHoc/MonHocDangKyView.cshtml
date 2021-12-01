@@ -1,0 +1,70 @@
+﻿@model IEnumerable<MVC_DangKyMonHoc.Models.MonHoc>;
+@using Microsoft.AspNetCore.Http;
+@using MVC_DangKyMonHoc.Helper;
+@using MVC_DangKyMonHoc.Models;
+
+@{
+    ViewData["Title"] = "MonHocDangKyView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h1>MonHocDangKyView</h1>
+
+
+<div>
+    <table class="table table-bordered" style="background-color:dodgerblue">
+        <thead>
+            <tr>
+                <th scope="col">Tên môn học</th>
+                <th scope="col">Số tín chỉ</th>
+                <th scope="col">Hệ số HP</th>
+                <th scope="col">Mã môn học</th>
+
+                <th scope="col">Số lượng</th>
+                <th scope="col" width="80"> </th>
+
+
+            </tr>
+        </thead>
+    </table>
+    <form asp-action="DangKyMonHoc" asp-controller="DangKyMonHoc" method="post">
+        <table class="table table-bordered " style="height:400px; overflow-y:scroll;background-color:floralwhite">
+            <tbody>
+                @*@{
+                        List<ChiTietPdk> chitietpdk = SessionHelper.GetObjectFromJson<List<ChiTietPdk>>(Context.Session, "dangkymonhoc");
+                    }*@
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td>
+                            @Html.DisplayFor(modelItem => item.TenMh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Sotinchi)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.HesoHp)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.MaMh)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Thuchanh)
+                        </td>
+
+                        <td width="80">
+                            <input type="checkbox" checked="checked" value="true" name="@item.MaMh" />
+                        </td>
+
+                    </tr>
+                }
+
+
+            </tbody>
+        </table>
+        <input type="submit" name="idSubmit" value="Đăng ký" />
+    </form>
+</div>
+

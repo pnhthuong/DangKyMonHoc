@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AfterLoginNV.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PageQL\PageQLLop_MonHoc.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\CTCTDT_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\CT_MonHocDuocMo_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\HocKy_CTCTDT.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\LopMH_SinhVien_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\MatKhau_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\NienKhoaApDung_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\PhieuDangKy_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\TaoLopMH_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\testChiTietSinhVien.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\Window_CTCTDT_Chinhsua.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="WindowQL\XemChiTietPDK_Window.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="AfterLoginNV.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PageQL\PageQLLop_MonHoc.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\CTCTDT_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\CT_MonHocDuocMo_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\Hedaotao_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\HocKyCTDT_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\HocKyDKMH_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\HocKy_CTCTDT.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\Khoikienthuc_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\LopMH_SinhVien_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\MatKhau_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\Monhocduocmo_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\NamhocDKNH_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\NienKhoaApDung_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\PhieuDangKy_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\TaoLopMH_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\testChiTietSinhVien.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\Window_CTCTDT_Chinhsua.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="WindowQL\XemChiTietPDK_Window.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

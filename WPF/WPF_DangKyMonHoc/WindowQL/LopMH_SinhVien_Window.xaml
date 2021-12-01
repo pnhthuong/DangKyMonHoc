@@ -1,0 +1,63 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.WindowQL.LopMH_SinhVien_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc.WindowQL"
+                xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+
+        mc:Ignorable="d"
+        Title="LopMH_SinhVien_Window" Height="450" Width="800">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="30"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã lớp môn học :"/>
+            <TextBlock Grid.Row="0" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="ID :"/>
+            <TextBlock Grid.Row="1" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã số sinh viên :"/>
+            <TextBlock Grid.Row="2" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Họ tên sinh viên :"/>
+            <TextBox Grid.Column="1" Grid.Row="0" x:Name="txtMaLopMh"/>
+            <TextBox Grid.Column="3" Grid.Row="0" x:Name="txtID"/>
+            <TextBox Grid.Column="3" Grid.Row="1" x:Name="txtMSsv"/>
+            <TextBox Grid.Column="3" Grid.Row="2" x:Name="txtHoten"/>
+
+        </Grid>
+        <Grid>
+            <WrapPanel HorizontalAlignment="Center">
+                <Button Grid.Column="5" Grid.Row="1" Margin="10" Content="Thêm Sinh Viên" Click="btn_ThemSV"/>
+                <Button Grid.Column="5" Grid.Row="1" Margin="10" Content="Xóa Sinh Viên" Click="btnxoa"/>
+                <Button Grid.Column="5" Grid.Row="1" Margin="10" Content="Thoát" Click="btnThoat"/>
+            </WrapPanel>
+        </Grid>
+        <materialDesign:Card  Margin="5" VerticalAlignment="Stretch">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Auto">
+                <ListView x:Name="listLopmh" Height="500" DisplayMemberPath=""  HorizontalAlignment="Center" VerticalAlignment="Center">
+                    <ListView.View>
+                        <GridView>
+                            <GridViewColumn Header="ID " DisplayMemberBinding="{Binding Id}" />
+                            <GridViewColumn Header="MSSV" DisplayMemberBinding="{Binding Masv}"/>
+                            <GridViewColumn Header="Họ tên" DisplayMemberBinding="{Binding TenSv}"/>
+                            <GridViewColumn Header="Mã lớp học" DisplayMemberBinding="{Binding MaLmh}"/>
+                        </GridView>
+                    </ListView.View>
+                </ListView>
+            </ScrollViewer>
+        </materialDesign:Card>
+
+    </StackPanel>
+</Window>

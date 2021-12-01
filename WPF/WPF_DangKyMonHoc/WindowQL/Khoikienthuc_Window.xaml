@@ -1,0 +1,79 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.WindowQL.Khoikienthuc_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc.WindowQL"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" Loaded="Window_Loaded"
+        Title="Khoikienthuc_Window" Height="450" Width="800">
+    <StackPanel>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="150"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid Grid.Row="0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="20"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã khối kiến thức :"/>
+                <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Left" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Tên khối kiến thức :"/>
+                <TextBox  Grid.Row="0" Grid.Column="0" HorizontalAlignment="Right" Width="125" Name="txtKhoiKienThuc" />
+                <TextBox  Grid.Row="1" Grid.Column="0" HorizontalAlignment="Right" Width="125" Name="txtTenKhoiKienThuc" />
+                <TextBlock Grid.Row="0" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Tên chuyên môn :"/>
+                <TextBlock Grid.Row="1" Grid.Column="2" HorizontalAlignment="Left" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Bắt buộc :"/>
+                <TextBox  Grid.Row="0" Grid.Column="2" HorizontalAlignment="Right" Width="125" Name="txtTenChuyenMon" />
+                <WrapPanel Grid.Row="1" Grid.Column="2" HorizontalAlignment="Right" VerticalAlignment="Bottom">
+                    <RadioButton Content="Bắt buộc   " IsChecked="True" Name="rdoBatbuoc" Click="rdoBatbuoc_Click"/>
+                    <RadioButton Content="Tự Chọn     " Name="rdoKhongBatBuoc" Click="rdoKhongBatBuoc_Click"/>
+                </WrapPanel>
+                <materialDesign:Card HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="1" Grid.Column="3" Grid.ColumnSpan="2" Margin="0,0,37,0">
+                    <WrapPanel  >
+                        <Button  Content="Thêm" Name="btnthem" Click="btnthem_Click" ></Button>
+                        <TextBlock Text=" " Width="5"></TextBlock>
+                        <Button Content="Sửa" Name="btnSua" Click="btnSua_Click" ></Button>
+                        <TextBlock Text=" " Width="5"></TextBlock>
+                        <Button  Content="Xóa" Name="btnXoa" Click="btnXoa_Click"></Button>
+                    </WrapPanel>
+                </materialDesign:Card>
+                <materialDesign:Card HorizontalAlignment="Right" VerticalAlignment="Center" Grid.Row="2" Grid.Column="3" Grid.ColumnSpan="2" Margin="0,0,37,0">
+                    <WrapPanel  >
+                        <Button  Content="Làm mới" Name="btnLammoi" Click="btnLammoi_Click" ></Button>
+                        <TextBlock Text=" " Width="5"></TextBlock>
+                        <Button Content="Thoát" Name="btnThoat" Click="btnThoat_Click"></Button>
+
+                    </WrapPanel>
+                </materialDesign:Card>
+
+            </Grid>
+            <materialDesign:Card Grid.Row="1" HorizontalAlignment="Stretch">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ListView Name="listKhoiKienThuc" SelectedValuePath="MaKhoi" SelectionChanged="listKhoiKienThuc_SelectionChanged" Height="250">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Mã khối kiến thức " DisplayMemberBinding="{Binding MaKhoi}" ></GridViewColumn>
+                                <GridViewColumn Header="Tên khối kiến thức" DisplayMemberBinding="{Binding TenKhoi}" ></GridViewColumn>
+                                <GridViewColumn Header="Tên chuyên môn" DisplayMemberBinding="{Binding TenChuyenMon}"></GridViewColumn>
+                                <GridViewColumn Header="Bắt buộc" DisplayMemberBinding="{Binding Batbuoc}"></GridViewColumn>
+
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </ScrollViewer>
+            </materialDesign:Card>
+        </Grid>
+    </StackPanel>
+</Window>

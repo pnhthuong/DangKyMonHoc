@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+
+    <None Remove="Assets\Logo_STU.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Logo_STU.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+
+    <PackageReference Include="HamburgerMenu" Version="0.1.0" />
+
+    <PackageReference Include="MaterialDesignThemes" Version="4.1.0" />
+
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.7" />
+
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.7" />
+  </ItemGroup>
+
+</Project>

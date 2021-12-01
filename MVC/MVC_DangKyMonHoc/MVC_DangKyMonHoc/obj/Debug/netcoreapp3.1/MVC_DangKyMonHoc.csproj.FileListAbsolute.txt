@@ -1,0 +1,476 @@
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.exe
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.deps.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.dev.json
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csprojAssemblyReference.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfoInputs.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfo.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CoreCompileInputs.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.MvcApplicationPartsAssemblyInfo.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.Manifest.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.xml
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC_DangKyMonHoc.styles.css
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.input.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.output.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorCoreGenerate.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.genruntimeconfig.cache
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CopyComplete
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\Index.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\View.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDuocMoPartialView.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\chonMonHoc.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\IndexThongTinSinhVien.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\SuaMatKhau.cshtml.g.cs
+E:\Nam 4\LUAN VAN TOT NGHIEP\DOANLAMLAI\DangKyMonHoc\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDangKyView.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.exe
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.deps.json
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.json
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.dev.json
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csprojAssemblyReference.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfoInputs.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfo.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CoreCompileInputs.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.MvcApplicationPartsAssemblyInfo.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.Manifest.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.xml
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\scopedcss\bundle\MVC_DangKyMonHoc.styles.css
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.input.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.output.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorCoreGenerate.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\chonMonHoc.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\Index.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDangKyView.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDuocMoPartialView.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\IndexThongTinSinhVien.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\SuaMatKhau.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\View.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cache
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cs
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CopyComplete
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+E:\Nam 4\LUYENTAPETC\MVC\MVC_DangKyMonHoc\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.genruntimeconfig.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.exe
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.deps.json
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.json
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.dev.json
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csprojAssemblyReference.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfoInputs.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfo.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.input.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.output.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorCoreGenerate.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\chonMonHoc.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\Index.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDangKyView.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDuocMoPartialView.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\IndexThongTinSinhVien.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\SuaMatKhau.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\View.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CopyComplete
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.Manifest.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.xml
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.genruntimeconfig.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\TKMonHoc.cshtml.g.cs
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CoreCompileInputs.cache
+G:\Luan_Van\ChienLuanVan\Thuong\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.MvcApplicationPartsAssemblyInfo.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.exe
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.deps.json
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.json
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.runtimeconfig.dev.json
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfoInputs.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.AssemblyInfo.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorAssemblyInfo.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.input.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.TagHelpers.output.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorCoreGenerate.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\chonMonHoc.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\Index.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDangKyView.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\MonHocDuocMoPartialView.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\DangKyMonHoc\TKMonHoc.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Login.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\IndexThongTinSinhVien.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\SinhVien\SuaMatKhau.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\View.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.RazorTargetAssemblyInfo.cs
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.Views.pdb
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CopyComplete
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.Manifest.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\staticwebassets\MVC_DangKyMonHoc.StaticWebAssets.xml
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.pdb
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.genruntimeconfig.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csprojAssemblyReference.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.csproj.CoreCompileInputs.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\MVC_DangKyMonHoc.MvcApplicationPartsAssemblyInfo.cache
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+G:\Luan_Van\MVC_DangKyMonHoc\MVC_DangKyMonHoc\obj\Debug\netcoreapp3.1\Razor\Views\Home\CTCTDTSV.cshtml.g.cs

@@ -1,0 +1,67 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.WindowQL.NamhocDKNH_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc.WindowQL"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d"
+        Title="NamhocDKNH_Window" Height="450" Width="800">
+    <StackPanel>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition></ColumnDefinition>
+                <ColumnDefinition Width="10"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <materialDesign:Card Grid.Column="0" HorizontalAlignment="Stretch">
+                <ScrollViewer VerticalScrollBarVisibility="Auto">
+                    <ListView Name="listNamHocDKMH" SelectedValuePath="MaNh" SelectionChanged="listNamHocDKMH_SelectionChanged">
+                        <ListView.View>
+                            <GridView>
+                                <GridViewColumn Header="Mã năm học " DisplayMemberBinding="{Binding MaNh}" ></GridViewColumn>
+                                <GridViewColumn Header="Tên năm học" DisplayMemberBinding="{Binding TenNh}"></GridViewColumn>
+                            </GridView>
+                        </ListView.View>
+                    </ListView>
+                </ScrollViewer>
+            </materialDesign:Card>
+
+            <StackPanel Grid.Column="2">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition Height="5" ></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <TextBlock Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mã năm học:"/>
+                    <TextBlock Grid.Row="1" Grid.Column="0" HorizontalAlignment="Center" VerticalAlignment="Center"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Tên năm học:"/>
+                    <TextBox Margin="0 0 0 5" Grid.Row="0" Grid.Column="1" HorizontalAlignment="Left" Width="125" Name="txtMaNh" />
+                    <TextBox Margin="0 0 0 5" Grid.Row="1" Grid.Column="1" HorizontalAlignment="Left" Width="125" Name="txtTenNh"/>
+                    <materialDesign:Card HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="2" Margin="0,0,37,0">
+                        <WrapPanel  >
+                            <Button  Content="Thêm" Name="btn_themNamhocDKMH" Click="btn_themNamhocDKMH_Click"></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button Content="Sửa" Name="btn_suaNamhocDKMH" Click="btn_suaNamhocDKMH_Click"></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button  Content="Xóa" Name="btn_xoaNamhocDKMH" Click="btn_xoaNamhocDKMH_Click"></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button  Content="Làm Mới" Name="btn_lammoi" Click="btn_lammoi_Click"></Button>
+                            <TextBlock Text=" " Width="5"></TextBlock>
+                            <Button  Content="Thoát" Name="btn_thoat" Click="btn_thoat_Click"></Button>
+                        </WrapPanel>
+                    </materialDesign:Card>
+                </Grid>
+            </StackPanel>
+        </Grid>
+    </StackPanel>
+
+</Window>

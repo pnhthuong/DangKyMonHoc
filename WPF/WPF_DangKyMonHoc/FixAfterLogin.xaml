@@ -1,0 +1,130 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.FixAfterLogin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc"
+        mc:Ignorable="d"
+        Title="FixAfterLogin"  WindowState="Maximized" Foreground="White"  Width="800" Height="450">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.Column="1"  Background="#FF2B52AB">
+            <TextBlock Text="TRƯỜNG ĐẠI HỌC CÔNG NGHỆ SÀI GÒN" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="25" FontWeight="ExtraBold" ></TextBlock>
+            <StackPanel VerticalAlignment="Center" Orientation="Horizontal" HorizontalAlignment="Right">
+                <materialDesign:PopupBox  Margin="10" PlacementMode="BottomAndAlignRightEdges" StaysOpen="False">
+                    <StackPanel Width="120">
+                        <Button Content="Đổi Mật Khẩu" Click="btn_doimatkhau"/>
+                        
+                        <Separator/>
+                        <Button Content="Đăng xuất" Click="btn_exit"/>
+                    </StackPanel>
+                </materialDesign:PopupBox>
+
+            </StackPanel>
+        </Grid>
+        <Grid x:Name="GridMenu" Grid.Column="0" Grid.RowSpan="3" Width="200" HorizontalAlignment="Left" Background="#FF2B52AB" >
+            <StackPanel>
+                <Grid Height="100"  Background="#FF2B52AB">
+                    <Image Source="/Assets/Logo_STU.png" Width="200" Height="90"/>
+        
+                    <!--<Button Name="BtnCloseMenu" Width="50" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" Visibility="Collapsed" >
+                        <materialDesign:PackIcon  Foreground="#FFFFFFFF" Width="25" Height="25" Kind="ArrowLeft"/>
+                    </Button>
+                    <Button Name="BtnOpenMenu" Width="50" Height="50" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Top" HorizontalAlignment="Right" >
+                        <materialDesign:PackIcon  Foreground="#FFFFFFFF" Width="25" Height="25" Kind="Menu"/>
+                    </Button>-->
+                </Grid>
+                <ListView Foreground="White">
+                    <Separator />
+                    <ListViewItem Height="50" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Sinh Viên "  Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" 
+                                    HorizontalAlignment="Right"   
+                                    Foreground="White"
+                                    FontWeight="Bold"
+                                    Name="btnQuanLyGiangVien" Click="btnQuanLySinhVien_Click" />
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Nhân Viên" Click="btnQuanLyNhanVien" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right"  Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Giảng Viên" Click="btnGiangVien" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right"  Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Lớp" Click="btnquanlyLop" FontWeight="Bold"  Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Môn Học" Click="btnquanlyMonHoc" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Cổng Đăng ký" Click="btnCongDangKy" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Chương Trình Đào Tạo" Click="btnCTDT" FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                    <ListViewItem Height="60" >
+                        <StackPanel Orientation="Horizontal">
+                            <Button Content="Quản lý Lớp môn học" Name="btnLopMonHoc" Click="btnLopMonHoc_Click"  FontWeight="Bold" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="White"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1" >
+
+            <Grid >
+                <DockPanel>
+                    <Menu DockPanel.Dock="Top" Width="auto" >
+                        <MenuItem Header="Người dùng" FontWeight="ExtraBlack" >
+                            <MenuItem Header="Quản lý Chức Vụ" Click="btnchucvu"/>
+                            <MenuItem Header="Quản lý Khoa" Click="btnKhoa" />
+                            <MenuItem Header="Quản lý Ngành" Click="btnNganh" />
+                            <MenuItem Header="Quản lý Niên Khóa" Click="btnNienKhoa"/>
+                        </MenuItem>
+                        <MenuItem Header="Đăng ký môn học" FontWeight="ExtraBlack" >
+                            <MenuItem Header="Năm Học" Click="btnNamHocDKMH" />
+                            <MenuItem Header="Học kỳ" Click="btnHocKyDKMH" />
+                            <!--<MenuItem Header="Môn học được mở" Click="btnMonhocduomo" />-->
+                        </MenuItem>
+                        <MenuItem Header="Chương trình đào tạo" FontWeight="ExtraBlack">
+                            <MenuItem Header="Khối kiến thức" Click="btnKhoiKT" />
+                            <MenuItem Header="Hệ đào tạo" Click="btnHeDaoTao" />
+                            <MenuItem Header="Học Kỳ" Click="btnhockyctdt" />
+                        </MenuItem>
+                    </Menu>
+                </DockPanel>
+            </Grid>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="153*"/>
+                <ColumnDefinition Width="47*"/>
+            </Grid.ColumnDefinitions>
+            <Frame x:Name="ContentArea" NavigationUIVisibility="Hidden" Grid.ColumnSpan="2"/>
+
+        </Grid>
+    </Grid>
+</Window>

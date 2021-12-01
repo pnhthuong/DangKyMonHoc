@@ -1,0 +1,91 @@
+﻿@model MVC_DangKyMonHoc.Models.EditPasswword
+@{
+    ViewData["Title"] = "SuaMatKhau";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    #footer.incorrect {
+        background-color: white;
+    }
+
+    #footer.correct {
+        background-color: #ffffff;
+    }
+
+   
+       
+</style>
+<h1>Thay đổi mật khẩu</h1>
+
+
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="editpasswordSinhVien" asp-controller="SinhVien" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <span style="color:red">@ViewBag.note</span><br />
+                <label class="control-label">Nhập mật khẩu cũ:</label>
+                <input asp-for="matkhaucu" id="txt_mkcu" type="password" class="form-control" />
+                <span asp-validation-for="matkhaucu" id="footermkcu" class="text-danger"></span>
+                <label class="control-label">Nhập mật khẩu mới:</label>
+                <input id="passOne" type="password" class="form-control" />
+                <label class="control-label">Nhập lại mật khẩu mới:</label>
+                <input id="passTwo" asp-for="matkhaumoi" type="password" class="form-control" />
+                @*<span id="footerText" class="text-danger"></span>*@
+                <div id="footer" class="incorrect">
+                    <center><span id="footerText" style="color:orangered">Filler text</span></center>
+                </div>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Lưu lại" class="btn btn-primary" />
+                <input type="submit" value="Hủy bỏ" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        var passOne = $("#passOne").val();
+        var passTwo = $("#passTwo").val();
+
+        $("#footerText").html("Bạn chưa nhập mật khẩu mới");
+
+        var checkAndChange = function () {
+            if (passOne.length < 1) {
+                if ($("#footer").hasClass("correct")) {
+                    $("#footer").removeClass("correct").addClass("incorrect");
+                    $("#footerText").html("Xác Nhận Mật Khẩu Không Thành Công");
+                } else {
+                    $("#footerText").html("Xác Nhận Mật Khẩu Không Thành Công");
+                }
+            }
+            else if ($("#footer").hasClass("incorrect")) {
+                if (passOne == passTwo) {
+                    $("#footer").removeClass("incorrect").addClass("correct");
+                    $("#footerText").html("");
+                }
+            }
+            else {
+                if (passOne != passTwo) {
+                    $("#footer").removeClass("correct").addClass("incorrect");
+                    $("#footerText").html("Xác Nhận Mật Khẩu Không Thành Công");
+                }
+            }
+        }
+
+
+
+        $("input").keyup(function () {
+            var newPassOne = $("#passOne").val();
+            var newPassTwo = $("#passTwo").val();
+
+            passOne = newPassOne;
+            passTwo = newPassTwo;
+
+            checkAndChange();
+        });
+
+        
+    });
+</script>

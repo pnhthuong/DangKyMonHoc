@@ -1,0 +1,138 @@
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\API.exe
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\API.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\API.pdb
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.dll
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.pdb
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+G:\Luan_Van\Git\API\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+G:\Luan_Van\Git\API\API\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\API.exe
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\API.deps.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\API.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\API.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Humanizer.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.styles.css
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.dll
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.pdb
+E:\Nam 4\LUANVAN\Code_HD6_LeHuynhTrung_PhanNguyenHoaiThuong\API\API\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache

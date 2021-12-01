@@ -1,0 +1,33 @@
+﻿<Window x:Class="Wpf_DangKyMonHoc.WindowQL.MatKhau_Window"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DangKyMonHoc.WindowQL"
+        mc:Ignorable="d"
+        Title="MatKhau_Window" Height="300" Width="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <TextBlock  Grid.Row="0" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center"
+    FontSize="30" Text="Thay Đổi Mật Khẩu" />
+        <TextBlock Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Mật khẩu mới:     "/>
+        <TextBlock Grid.Row="2" Grid.Column="0" VerticalAlignment="Center" HorizontalAlignment="Right"
+    Style="{StaticResource MaterialDesignBody2TextBlock}" Text="Nhập lại mật khẩu:     "/>
+        <PasswordBox  Margin="10 5 15 5" Grid.Row="1" Grid.Column="1" Name="txt_mkmoi" />
+        <PasswordBox  Margin="10 5 15 5" Grid.Row="2" Grid.Column="1" Name="txt_mknl"   />
+        <WrapPanel Grid.Row="3" Grid.Column="1">
+            <Button Content="Lưu" Margin="5" Click="btn_Luu" ></Button>
+            <Button  Content="Thoát" Margin="5" Click="btn_Thoat" ></Button>
+        </WrapPanel>
+    </Grid>
+</Window>

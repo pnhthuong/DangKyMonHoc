@@ -1,0 +1,275 @@
+﻿@model IEnumerable<MVC_DangKyMonHoc.Models.MonHocDuocMoCustom>
+
+
+@{
+    ViewData["Title"] = "Đăng ký môn học";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    table {
+        display: flex;
+        flex-flow: column;
+        width: 100%;
+    }
+
+    thead {
+        flex: 0 0 auto;
+    }
+
+    tbody {
+        /*		flex: 1 1 auto;
+        display: flex;
+        overflow-y: auto;
+        overflow-x: hidden;*/
+    }
+
+    tr {
+        width: 100%;
+        display: table;
+        table-layout: fixed;
+    }
+
+    .trmhnv {
+        background: #d5d3d3;
+    }
+</style>
+
+@{
+    if (Model == null)
+    {
+        <span>@ViewBag.error</span>
+    }
+    else
+    {
+        <div class="row">
+            <span class="col-4">Tìm kiếm môn học trong học kỳ:</span>
+            <input type="text" id="searchDM" placeholder="Mã Môn Học Cần Tìm">
+            <div class="col-1"></div>
+            <button id="searchMHDM" class="btn btn-outline-primary">
+                Tìm Kiếm
+            </button>
+        </div>
+        <hr />
+        <div class="row">
+            <span class="col-4">Tìm kiếm môn học không được mở trong học kỳ:  </span>
+            <input type="text" id="searchI" placeholder="Mã Môn Học Cần Tìm">
+            <div class="col-1"></div>
+            <button id="search" class="btn btn-outline-success">
+                Tìm Kiếm
+            </button>
+        </div>
+
+
+        <div>
+            <table class="table table-bordered" style="background-color:dodgerblue">
+                <thead>
+                    <tr>
+                        <th class="col-1"></th>
+                        <th class="col-2">Mã môn học</th>
+                        <th class="col-2">Tên môn học</th>
+                        <th class="col-2">Số tín chỉ</th>
+                        <th class="col-2">Hệ số HP</th>
+                        <th class="col-2">Số lượng</th>
+                        <th class="col-1">Chú thích</th>
+
+                    </tr>
+                </thead>
+            </table>
+            <form asp-action="DKMH" asp-controller="DangKyMonHoc" method="post">
+                <table id="_monhocduocmo" style="overflow-y:scroll;background-color:white" class="table">
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                @{
+                                    if (item.dadangky == true)
+                                    {
+                                        <td class="col-1">
+                                            <input type="checkbox" value="true" name="@item.MaMh" checked />
+                                        </td>
+                                    }
+                                    else
+                                    {
+                                        <td class="col-1">
+                                            <input type="checkbox" value="true" name="@item.MaMh" />
+                                        </td>
+                                    }
+
+                                }
+                                <td class="col-2">
+                                    @Html.DisplayFor(modelItem => item.MaMh)
+                                </td>
+                                <td class="col-2">
+                                    @Html.DisplayFor(modelItem => item.TenMh)
+                                </td>
+                                <td class="col-2">
+                                    @Html.DisplayFor(modelItem => item.sotinchi)
+                                </td>
+                                <td class="col-2">
+                                    @Html.DisplayFor(modelItem => item.hesohp)
+                                </td>
+                                <td class="col-2">
+                                    @Html.DisplayFor(modelitem => item.Soluong)
+                                </td>
+                                <td class="col-1">
+                                    @Html.DisplayFor(modelitem => item.chuthich)
+                                </td>
+                                
+                            </tr>
+                                    }
+                    </tbody>
+                </table>
+                <hr />
+                <input type="submit" id="idSumbit" value="Đăng ký"/>
+            </form>
+
+        </div>
+
+    }
+}
+
+
+<script type="text/javascript">
+    $().ready(function () {
+        const listMHNV = [];
+        //Môn Học Nguyện Vọng
+        $('#search').click(function () {
+            var id = $('#searchI').val();
+            if (id === "") {
+                alert("Sinh Viên Điền Thông Tin Môn Học Cần Tìm");
+                return;
+            }
+            const a = listMHNV.find(element => element.trim() === id);
+            //console.log(listMHNV);
+            if (a !== undefined) {
+                alert("Môn học đã được tìm");
+                return false;
+            }
+            var url = '/DangKyMonHoc/TKMonHoc/' + id;
+            $.get(url, function (data) {
+                var obj = JSON.parse(data);
+                //alert(data);
+                //alert(typeof(obj.MaMh))
+                if (obj.MaMh === null) {
+                    alert("Không Tìm Thấy Môn Học");
+                    return false;
+                }
+
+                var table = document.getElementById("_monhocduocmo");
+                var row = table.insertRow(0);
+                row.classList.add('trmhnv');
+                var cell1 = row.insertCell(0);
+                var cell2 = row.insertCell(1);
+                var cell3 = row.insertCell(2);
+                var cell4 = row.insertCell(3);
+                var cell5 = row.insertCell(4);
+                var cell6 = row.insertCell(5);
+                var cell7 = row.insertCell(6);
+                cell1.innerHTML = "<input type=\x22checkbox\x22 value=\x22false\x22 name=\x22" + obj.MaMh + "\x22 />";
+                cell1.className = "col-1";
+                cell2.innerHTML = obj.MaMh;
+                cell2.className = "col-2";
+                cell3.innerHTML = obj.TenMh;
+                cell3.className = "col-2";
+                cell4.innerHTML = obj.sotinchi;
+                cell4.className = "col-2";
+                cell5.innerHTML = obj.hesohp;
+                cell5.className = "col-2";
+                cell6.innerHTML = obj.Soluong;
+                cell5.className = "col-2";
+                cell7.innerHTML = obj.chuthich;
+                cell7.className = "col-1";
+                listMHNV.push(obj.MaMh);
+            });
+        });
+        const listMHDM = [];
+        //môn học được mở
+        $('#searchMHDM').click(function () {
+            //alert("VaoDuocroi")
+            var id = $('#searchDM').val();
+            if (id === "") {
+                alert("Sinh Viên Điền Thông Tin Môn Học Cần Tìm");
+                return;
+            }
+            const a = listMHNV.find(element => element.trim() === id);
+            //console.log(listMHNV);
+            if (a !== undefined) {
+                alert("Môn học đã được tìm");
+                return false;
+            }
+            var url = '/DangKyMonHoc/TKMonHocDuocMo/' + id;
+            $.get(url, function (data) {
+                var obj = JSON.parse(data);
+                //alert(typeof(obj.MaMh))
+                if (obj.MaMh === null) {
+                    alert("Không Tìm Thấy Môn Học");
+                    return false;
+                }
+                if (obj.TrangthaiTT === true) {
+                    //alert("no da bay vao day")
+                    alert(obj.Noidung);
+                    return false;
+                }
+                var table = document.getElementById("_monhocduocmo");
+                var row = table.insertRow(0);
+                //row.classList.add('trmhnv');
+                var cell1 = row.insertCell(0);
+                var cell2 = row.insertCell(1);
+                var cell3 = row.insertCell(2);
+                var cell4 = row.insertCell(3);
+                var cell5 = row.insertCell(4);
+                var cell6 = row.insertCell(5);
+                var cell7 = row.insertCell(6);
+                cell1.innerHTML = "<input type=\x22checkbox\x22 value=\x22true\x22 name=\x22" + obj.MaMh + "\x22 />";
+                cell1.className = "col-1";
+                cell2.innerHTML = obj.MaMh;
+                cell2.className = "col-2";
+                cell3.innerHTML = obj.TenMh;
+                cell3.className = "col-2";
+                cell4.innerHTML = obj.sotinchi;
+                cell4.className = "col-2";
+                cell5.innerHTML = obj.hesohp;
+                cell5.className = "col-2";
+                cell6.innerHTML = obj.Soluong;
+                cell5.className = "col-2";
+                cell7.innerHTML = obj.chuthich;
+                cell7.className = "col-1";
+                listMHNV.push(obj.MaMh);
+            });
+        });
+        //Kiểm tra môn học song hành 
+        $('#idSumbit').click(function () {
+            var listcheckedtable = [];
+            var ttajax=false;
+            $("#_monhocduocmo input[type=checkbox]:checked").each(function () {
+                var row = $(this).closest("tr")[0];
+                var message = row.cells[1].innerHTML;
+                listcheckedtable.push(message.trim());
+            });
+            
+            $.ajax({
+                url: "@Url.Action("KiemTraSongHanh")",
+                type: 'post',
+                async :false,
+                contentType: 'application/json',
+                data: JSON.stringify(listcheckedtable),
+                success: function (response) {
+                    var res = JSON.parse(response);
+                    if (res.TrangthaiTT === false) {
+                        ttajax= true;
+                    }
+                    else {
+                        $.each(res, function (index, emp) {
+                            alert(emp.Noidung);
+                            
+                        });
+                    }
+                }
+            });
+            //alert(ttajax);
+            return ttajax;
+        });
+    })
+
+</script>
